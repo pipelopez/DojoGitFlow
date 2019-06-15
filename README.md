@@ -1,2 +1,2 @@
 # DojoGitFlow
-Repositorio para el workshop de gitflow
+This repository contain a basic Angular project by gitflow workshop.
